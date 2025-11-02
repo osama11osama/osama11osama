@@ -7,8 +7,8 @@
 ---
 
 ## 🧠 About Me
-- Worked as a **Research Assistant** at *CISPA Helmholtz Center for Information Security*  
 - Former **Full-Stack Developer** at *ZWF GmbH*  
+- Worked as a **Research Assistant** at *CISPA Helmholtz Center for Information Security*  
 - I love bridging **software engineering** and **cyber defense**  
 - Fluent in **English** and **German (C1 – DSH-2)**  
 
