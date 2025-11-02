@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Osama
 
-💻 **Full-Stack Developer** experienced in **Angular**, **Spring Boot**, and **Python**  
+💻 **Full-Stack Developer** experienced in **Angular**, **Java Spring Boot**, and **Python**  
 🎓 **Cybersecurity Master's student** at *Universität des Saarlandes*  
 🔐 Passionate about **Defensive Security**, **AI**, and **Secure Software Development**
 
